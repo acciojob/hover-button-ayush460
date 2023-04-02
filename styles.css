@@ -2,6 +2,7 @@
 /* Your CSS Code here. */
 #btn{
 	background:black;
+	border:none;
 	color:white;
 	width:10ex;
 	height:5ex;
